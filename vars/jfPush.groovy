@@ -1,3 +1,3 @@
 def call(){
-  sh 'sudo bash /tmp/jfpush.sh'
+  sh 'bash /tmp/jfpush.sh'
 }
