@@ -1,3 +1,3 @@
 def call(){
-  sh 'sudo docker start artifactory'
+  sh 'docker start artifactory'
 }
