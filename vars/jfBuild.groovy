@@ -1,3 +1,3 @@
 def call(){
-  sh 'sudo bash /tmp/jfbuild.sh'
+  sh 'sudo docker start artifactory'
 }
